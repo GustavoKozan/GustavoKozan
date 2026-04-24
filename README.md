@@ -8,6 +8,7 @@
 
 </div>
 
+![Visitor Count](https://komarev.com/ghpvc/?username=GustavoKozan&color=blue&style=flat-square&label=Visitantes)
 ---
 
 ## Sobre mim
