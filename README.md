@@ -58,9 +58,9 @@ Cada projeto aqui é um passo nessa jornada.
 
 <div align="center">
 
-![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
+![Gustavo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GustavoKozan&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKozan&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br)
 
 </div>
 
