@@ -4,7 +4,7 @@
 
 ### Estudante de Inteligência Artificial & Engenharia de Software · UFPR
 
-*Iniciante em programação em constante desenvolvimento*
+*Iniciante em programação, constante desenvolvimento*
 
 </div>
 
