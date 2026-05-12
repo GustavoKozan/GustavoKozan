@@ -74,6 +74,7 @@ Cada projeto aqui é um passo nessa jornada.
 
 </div>
 
+---
 
 <div align="center">
 
