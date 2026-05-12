@@ -60,7 +60,7 @@ Cada projeto aqui é um passo nessa jornada.
 
 ![Gustavo's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoKozan&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoKozan&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoKozan&theme=tokyonight)
 
 </div>
 ---
