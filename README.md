@@ -4,7 +4,7 @@
 
 ### Estudante de Inteligência Artificial & Engenharia de Software · UFPR
 
-*Iniciante em programação, constante desenvolvimento*
+*Iniciante em programação, desenvolvimento constante*
 
 </div>
 
@@ -17,7 +17,7 @@ Estou construindo minha base técnica com foco em duas frentes que se complement
 entender como sistemas inteligentes funcionam por dentro, e saber transformar
 esse conhecimento em produtos reais.
 
-Atualmente aprendendo fundamentos de Python, NumPy e estruturas de dados.
+Atualmente aprendendo Python, NumPy, estruturas de dados e dando início aos estudos sobre Pandas.
 Cada projeto aqui é um passo nessa jornada.
 
 ---
