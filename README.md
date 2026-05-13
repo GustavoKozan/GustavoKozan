@@ -47,7 +47,7 @@ Cada projeto aqui é um passo nessa jornada.
 
 ## 🎯 Próximos passos
 
-- [ ] Concluir fundamentos de Python e NumPy
+- [x] Concluir fundamentos de Python e NumPy
 - [ ] Aprender Pandas e visualização de dados
 - [ ] Publicar primeiro projeto autoral
 - [ ] Explorar Machine Learning com Scikit-learn
