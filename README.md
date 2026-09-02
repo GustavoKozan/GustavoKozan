@@ -4,7 +4,7 @@
 <!-- 🔷 SYSTEM BOOT SEQUENCE — HEADER BANNER                             -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:00d4ff,100:7b2ff7&section=header&text=GUSTAVO%20KOZAN&fontSize=42&fontColor=00d4ff&fontAlignY=35&fontFamily=Consolas,monospace&desc=SYSTEM%20ONLINE%20%7C%20AI%20%2B%20SOFTWARE%20ENGINEERING&descSize=14&descColor=a0a0a0&descAlignY=55&animation=fadeIn" alt="Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0d1117,50:00d4ff,100:7b2ff7&section=header&text=GUSTAVO%20KOZAN&fontSize=42&fontColor=00d4ff&fontAlignY=35&fontFamily=Vintage,monospace&desc=SYSTEM%20ONLINE%20%7C%20AI%20%2B%20SOFTWARE%20ENGINEERING&descSize=14&descColor=a0a0a0&descAlignY=55&animation=fadeIn" alt="Header"/>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!-- 🔷 SYSTEM INITIALIZATION — TYPING ANIMATION                         -->
