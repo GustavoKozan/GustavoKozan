@@ -4,7 +4,7 @@
 <!-- 🔷 SYSTEM BOOT SEQUENCE — HEADER BANNER                             -->
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=220&section=header&text=GUSTAVO%20KOZAN&fontSize=42&fontColor=00d4ff&fontAlignY=35&desc=SYSTEM%20ONLINE%20%7C%20AI%20%26%20SOFTWARE%20ENGINEERING&descSize=14&descColor=a0a0a0&descAlignY=55&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=0,2,2,5,30&section=header&text=GUSTAVO%20KOZAN&fontSize=42&fontColor=00d4ff&fontAlignY=35&desc=SYSTEM%20ONLINE%20%7C%20AI%20%26%20SOFTWARE%20ENGINEERING&descSize=14&descColor=a0a0a0&descAlignY=55&animation=fadeIn" alt="Header"/>
 
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 <!-- 🔷 SYSTEM INITIALIZATION — TYPING ANIMATION                         -->
@@ -188,7 +188,7 @@ module.exports = gustavo;
 <div align="center">
 
 <a href="https://github.com/GustavoKozan/GustavoKozan">
-  <img width="390" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=GustavoKozan&repo=GustavoKozan&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=a0a0a0" alt="Profile Repo"/>
+  <img width="390" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=GustavoKozan&repo=GustavoKozan&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=a0a0a0" alt="Profile Repo"/>
 </a>
 
 </div>
@@ -266,7 +266,7 @@ kozan@ufpr:~$ _
 
 <!-- Stats Card + Streak -->
 <a href="https://github.com/GustavoKozan">
-  <img width="440" src="https://github-readme-stats-sigma-five.vercel.app/api?username=GustavoKozan&show_icons=true&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=a0a0a0&ring_color=7b2ff7&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="440" src="https://github-readme-stats-eight-theta.vercel.app/api?username=GustavoKozan&show_icons=true&theme=react&bg_color=0d1117&border_color=00d4ff&icon_color=00d4ff&title_color=00d4ff&text_color=a0a0a0&ring_color=7b2ff7&hide_border=false&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
 </a>
 &nbsp;
 <a href="https://github.com/GustavoKozan">
@@ -277,14 +277,14 @@ kozan@ufpr:~$ _
 
 <!-- Top Languages -->
 <a href="https://github.com/GustavoKozan">
-  <img width="350" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=GustavoKozan&layout=compact&theme=react&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=a0a0a0&hide_border=false&langs_count=8" alt="Top Languages"/>
+  <img width="350" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=GustavoKozan&layout=compact&theme=react&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=a0a0a0&hide_border=false&langs_count=8" alt="Top Languages"/>
 </a>
 
 <br><br>
 
 <!-- Activity Graph -->
 <a href="https://github.com/GustavoKozan">
-  <img width="95%" src="https://github-readme-activity-graph-psi.vercel.app/graph?username=GustavoKozan&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=7b2ff7&hide_border=true&custom_title=▸%20Contribution%20Activity%20Graph" alt="Activity Graph"/>
+  <img width="95%" src="https://github-readme-activity-graph-sandy.vercel.app/graph?username=GustavoKozan&bg_color=0d1117&color=00d4ff&line=7b2ff7&point=00d4ff&area=true&area_color=7b2ff7&hide_border=true&custom_title=▸%20Contribution%20Activity%20Graph" alt="Activity Graph"/>
 </a>
 
 <br><br>
@@ -407,7 +407,7 @@ kozan@ufpr:~$ _
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:7b2ff7&height=120&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=0,2,2,5,30&section=footer&animation=fadeIn" width="100%" alt="Footer"/>
 
 <br>
 
