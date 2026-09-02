@@ -1,83 +1,37 @@
 <div align="center">
 
-# Olá, eu sou o Gustavo 👋
+<!-- Banner Principal HUD / Cyberpunk -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00f2fe,100:4facfe&height=220&section=header&text=SYSTEM%20ONLINE:%20GUSTAVO%20MENDES&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%5B%20AI%20%26%20SOFTWARE%20ENGINEER%20IN%20TRAINING%20%7C%20DATA%20SPECIALIST%20%5D&descAlignY=58&descSize=14&descAlign=50" width="100%" alt="Header Banner" />
 
-### Estudante de Inteligência Artificial & Engenharia de Software · UFPR
+<!-- Efeito Typing / Jarvis Style -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2800&pause=1000&color=00F2FE&center=true&vCenter=true&multiline=false&width=600&height=40&lines=Initializing+Neural+Interface...;Transformando+dados+brutos+em+inteligência+estratégica.;Pipelines+de+Dados+%7C+Automações+%7C+Engenharia+de+Software;Status%3A+Explorando+novos+horizontes+na+UFPR." alt="Typing SVG" />
+</a>
 
-*Iniciante em programação, desenvolvimento constante*
+<br/>
 
-</div>
-
----
-
-## Sobre mim
-
-Sou estudante de Inteligência Artificial e Engenharia de Software na UFPR.
-Estou construindo minha base técnica com foco em duas frentes que se complementam:
-entender como sistemas inteligentes funcionam por dentro, e saber transformar
-esse conhecimento em produtos reais.
-
-Atualmente aprendendo Python, NumPy, estruturas de dados e dando início aos estudos sobre Pandas.
-Cada projeto aqui é um passo nessa jornada.
-
----
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<!-- Badges de Contato Rápido -->
+<p align="center">
+  <a href="https://linkedin.com/in/gustavo-kozan-4520161a8">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:gustavomkozan@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://github.com/GustavoKozan">
+    <img src="https://img.shields.io/badge/Portfolio-00F2FE?style=for-the-badge&logo=codeforces&logoColor=0d1117" alt="Portfolio Badge"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 📚 Atualmente estudando
+### 🛰️ `// DIAGNÓSTICO DO OPERADOR`
 
-- 🐍 Python — estruturas de dados, lógica e boas práticas
-- 🔢 NumPy — operações matriciais e computação numérica
-- 🤖 Fundamentos de Inteligência Artificial
-- ⚙️ Engenharia de Software — princípios e metodologias
-
----
-
-## 🎯 Próximos passos
-
-- [x] Concluir fundamentos de Python e NumPy
-- [ ] Aprender Pandas e visualização de dados
-- [ ] Publicar primeiro projeto autoral
-- [ ] Explorar Machine Learning com Scikit-learn
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Gustavo's GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GustavoKozan&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoKozan&theme=tokyonight)
-
-</div>
----
-
-## 📬 Contato
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavomkozan@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-kozan-4520161a8)
-
-</div>
-
----
-
-<div align="center">
-
-*"O conhecimento se constrói um commit de cada vez."*
-
-</div
+```yaml
+Nome: Gustavo Mendes Kozan
+Localização: Paraná, Brasil
+Graduação: Inteligência Artificial e Engenharia de Software (UFPR)
+Foco Principal: Engenharia & Análise de Dados | Automação | Algoritmos
+Diretriz Central: "Dados são ruído até que a engenharia correta os transforme em decisão."
